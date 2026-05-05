@@ -1,9 +1,9 @@
 :root {
-    --color-1: #EA7C3C;
-    --color-2: #F09A3E;
-    --color-3: #E7C78D;
-    --color-4: #A57ACF;
-    --color-5: #3A1C5A;
+    --color-1: #3cea8a;
+    --color-2: #3e8bf0;
+    --color-3: #8d93e7;
+    --color-4: #b47acf;
+    --color-5: #4e1c5a;
 
     --text: #222;
     --bg: #fff;
@@ -16,7 +16,7 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background: var(--bg);
     color: var(--text);
 }
