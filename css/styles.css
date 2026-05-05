@@ -56,12 +56,13 @@ body {
 
 /* CTA */
 .cta {
-    background: var(--color-2);
+    background: var(--color-1);
     border: none;
     padding: 12px 24px;
     font-size: 1rem;
     cursor: pointer;
-    border-radius: 6px;
+    border-radius: 50px;
+    border: solid 3px black;
 }
 
 /* FEATURES */
