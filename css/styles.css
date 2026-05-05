@@ -59,7 +59,7 @@ body {
     background: var(--color-1);
     border: none;
     padding: 12px 24px;
-    font-size: 2rem;
+    font-size: 1rem;
     cursor: pointer;
     border-radius: 50px;
     border: solid 3px black;
