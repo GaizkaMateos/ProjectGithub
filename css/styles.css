@@ -46,6 +46,7 @@ body {
 }
 
 .hero-title {
+    color: var(--color-5);
     font-size: 2rem;
     margin-bottom: 10px;
 }
